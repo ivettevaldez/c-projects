@@ -1,2 +1,2 @@
 # C-Projects
-All referent to C projects.
+All related to C projects.
